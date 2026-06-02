@@ -54,10 +54,31 @@ Ao clicar em um item, você vê a **Ficha do item** com a capa, título, autores
 No topo da ficha, à direita, aparecem botões de administrador conforme o tipo de item:
 
 - **Editar tags do sistema** — abre uma janela para marcar se o item é Público e/ou Estatuto e Atas (ver seção abaixo). Disponível em qualquer item.
+- **Editar endereço da página** — personaliza o link público do item (ver seção "O endereço da página do item" abaixo). Disponível em qualquer item.
 - **Editar** — abre o formulário de edição completo. **Só aparece em itens locais** (origem "Cadastro local").
 - **Abrir no Zotero** — leva ao item na estante do Zotero (só em itens vindos do Zotero).
 
-Para itens do Zotero, lembre-se: a edição de título, autores e demais dados deve ser feita no próprio Zotero. Aqui você ajusta apenas capa, etiquetas e visibilidade pública.
+Para itens do Zotero, lembre-se: a edição de título, autores e demais dados deve ser feita no próprio Zotero. Aqui você ajusta apenas capa, etiquetas, visibilidade pública e o endereço da página.
+
+---
+
+## O endereço da página do item (URL amigável)
+
+Cada item da biblioteca tem um **endereço da página** — a parte final do link público do item. Em vez de algo como `rbma.site/biblioteca/123`, o item aparece com um endereço descritivo, por exemplo `rbma.site/biblioteca/diretrizes-de-avaliacao`.
+
+Esse endereço é gerado **automaticamente a partir do título** quando o item entra na biblioteca. Ele deixa o link mais claro, mais fácil de compartilhar e ajuda o item a aparecer melhor nas buscas do Google.
+
+Você pode personalizá-lo:
+
+1. Abra a ficha do item e clique em **Editar endereço da página** (disponível em qualquer item — Zotero ou local).
+2. Na janela, digite o endereço desejado e clique em **Salvar**.
+3. Use apenas **letras, números e hifens** (sem espaços nem acentos). O sistema ajusta automaticamente para um formato válido — por exemplo, "Diretrizes de Avaliação" vira `diretrizes-de-avaliacao`.
+
+Pontos importantes:
+
+- O endereço precisa ser **único**. Se você tentar usar um que já pertence a outro item, o sistema avisa: *"Esse endereço já está em uso por outro item."*
+- Um endereço definido manualmente **é preservado**: ele não é sobrescrito quando a biblioteca sincroniza com o Zotero, mesmo que o título do item mude depois.
+- Ao trocar o endereço, o link anterior deixa de funcionar. Se o item já foi divulgado em algum lugar, evite mudar o endereço sem necessidade.
 
 ---
 
