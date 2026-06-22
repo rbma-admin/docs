@@ -44,6 +44,11 @@ lá e sincronize.
 Só **itens locais** (adicionados manualmente no painel) têm o botão **Editar**. Itens do Zotero só
 permitem editar as **tags do sistema** (Público / Estatuto e Atas) pela ficha do item.
 
+**A capa de um item está em branco.**
+Algumas capas são geradas automaticamente a partir do arquivo PDF do item, e isso pode falhar (arquivo
+muito grande ou indisponível no momento). Clique em **"Sincronizar biblioteca"** para a plataforma tentar
+gerar essas capas de novo. Você também pode enviar uma capa manualmente pela ficha do item.
+
 ## Pagamentos e assinaturas
 
 **Um pagamento aparece como "pendente" há tempo.**

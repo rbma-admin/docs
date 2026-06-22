@@ -45,6 +45,8 @@ Normalmente a plataforma atualiza o acervo sozinha. Mas se você acabou de inclu
 
 Use esse recurso quando notar que um item novo do Zotero ainda não apareceu na plataforma.
 
+**E as capas?** Algumas capas são geradas automaticamente pela plataforma a partir do arquivo PDF do item. Quando essa geração falha (por exemplo, um arquivo muito grande ou indisponível naquele momento), a capa fica em branco por um tempo. Ao clicar em **Sincronizar biblioteca**, a plataforma também volta a tentar gerar as capas que não deram certo antes — então, se a capa de um item não apareceu como esperado, vale sincronizar.
+
 ---
 
 ## Abrir e editar um item
