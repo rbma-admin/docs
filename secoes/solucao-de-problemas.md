@@ -49,6 +49,20 @@ Algumas capas são geradas automaticamente a partir do arquivo PDF do item, e is
 muito grande ou indisponível no momento). Clique em **"Sincronizar biblioteca"** para a plataforma tentar
 gerar essas capas de novo. Você também pode enviar uma capa manualmente pela ficha do item.
 
+## Conteúdo do site (textos, imagens e páginas)
+
+**Editei um texto/imagem e o site ainda mostra o antigo.**
+Aguarde cerca de 1 minuto e recarregue a página do site (F5) — há um pequeno cache no site
+público. No painel, a mudança aparece na hora.
+
+**Quero desfazer uma mudança de texto ou imagem.**
+Abra **Conteúdo do site**, encontre o campo (ele tem a etiqueta **Personalizado**) e clique em
+**Restaurar padrão** — o texto/imagem original do site volta imediatamente.
+
+**A página HTML que enviei foi recusada.**
+O arquivo precisa ser um `.html` de verdade (não PDF/ZIP renomeado) com até **5 MB**. Detalhes na
+seção [Conteúdo do site](secoes/conteudo-do-site.md).
+
 ## Pagamentos e assinaturas
 
 **Um pagamento aparece como "pendente" há tempo.**

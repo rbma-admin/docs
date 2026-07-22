@@ -13,6 +13,7 @@
   - [Permissões](secoes/permissoes.md)
   - [Templates de e-mail](secoes/templates-email.md)
   - [Mensagens de contato](secoes/mensagens-contato.md)
+  - [Conteúdo do site](secoes/conteudo-do-site.md)
   - [Organizações (PJ) e membros](secoes/organizacoes.md)
   - [Rede de Apoiadores](secoes/rede-apoiadores.md)
   - [Meu perfil](secoes/perfil.md)
